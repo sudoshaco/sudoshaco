@@ -9,9 +9,9 @@ mit Fokus auf Sicherheit, Datenschutz und echtem Nutzen.
 
 ## Was ich mache
 
-- **Netzwerkadministration** — Multi-Site-Infrastruktur, Active Directory, Azure
+- **Netzwerkadministration** — Multi-Site-Infrastruktur, Active Directory
 - **KI-Infrastruktur** — Self-Hosted LLMs via Ollama, Multi-Agent-Systeme, lokale Inferenz
-- **Automatisierung** — Docker, containerisierte Auto-Deployments, CI/CD
+- **Automatisierung** — Docker, containerisierte Auto-Deployments
 - **Cybersecurity** — Penetration Testing (HackTheBox), Offensive Security, Homelab
 
 ---
@@ -32,7 +32,7 @@ Languages  →  Python · TypeScript · C# · Go · Bash
 Infra      →  Docker · Proxmox · Linux · Nginx · Caddy
 AI/ML      →  Ollama · Groq · LangGraph · FastAPI
 Security   →  Blackarch · HackTheBox
-Network    →  LANCOM · SNMP · Active Directory · Azure Arc
+Network    →  LANCOM · SNMP · Active Directory 
 ```
 
 ---
