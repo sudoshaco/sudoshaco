@@ -28,11 +28,11 @@ mit Fokus auf Sicherheit, Datenschutz und echtem Nutzen.
 ## Stack
 
 ```
-Languages  →  Python · TypeScript · C# · Go · Bash
+Languages  →  Python · C# · Bash
 Infra      →  Docker · Proxmox · Linux · Nginx · Caddy
 AI/ML      →  Ollama · Groq · LangGraph · FastAPI
 Security   →  Blackarch · HackTheBox
-Network    →  LANCOM · SNMP · Active Directory 
+Network    →  LANCOM · Active Directory 
 ```
 
 ---
