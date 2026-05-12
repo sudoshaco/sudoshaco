@@ -9,7 +9,7 @@ mit Fokus auf Sicherheit, Datenschutz und echtem Nutzen.
 
 ## Was ich mache
 
-- **Netzwerkadministration** — Multi-Site-Infrastruktur, Active Directory, Azure, SNMP-Monitoring
+- **Netzwerkadministration** — Multi-Site-Infrastruktur, Active Directory, Azure
 - **KI-Infrastruktur** — Self-Hosted LLMs via Ollama, Multi-Agent-Systeme, lokale Inferenz
 - **Automatisierung** — Docker, containerisierte Auto-Deployments, CI/CD
 - **Cybersecurity** — Penetration Testing (HackTheBox), Offensive Security, Homelab
