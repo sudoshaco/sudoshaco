@@ -1,10 +1,5 @@
 # Sebastian Islamyar
 
-
-
-Ich baue KI-Infrastruktur, self-hosted Systeme und automatisierte Webprojekte —
-mit Fokus auf Sicherheit, Datenschutz und echtem Nutzen.
-
 ---
 
 ## Was ich mache
