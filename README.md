@@ -46,4 +46,4 @@ Network    →  LANCOM · Active Directory
 
 ---
 
-*Sebastian Islamyar · IT-Spezialist · Frankfurt · GitHub: sudoshaco*
+*Sebastian Islamyar · IT · Frankfurt · GitHub: sudoshaco*
