@@ -11,8 +11,8 @@
 
 ## Zertifizierungen (in Progress)
 
-- **CPTS** — Certified Penetration Testing Specialist (HTB Academy) — Ziel: Ende 2026
-- **CAPE** — Ziel: Q1 2027
+- **CPTS** 
+- **CAPE** 
 
 ---
 
